@@ -1,9 +1,8 @@
-<h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
-<H3>Enter Name: SARGURU K</H3>
-<H3>Enter Register No: 212222230134</H3>
-<H3>Experiment 2</H3>
-<H3>Date: </H3>
-
+<H3> NAME: SARGURU K </H3>
+<H3> REGISTER NUMBER: 212222230134 </H3>
+<H3>EXPERIMENT NO: 02 </H3>
+<H3>DATE:  </H3>
+<H1 ALIGN=CENTER> Implementation of Exact Inference Method of Bayesian Network </H1>
 
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
